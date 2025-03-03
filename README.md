@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task-Management-Dashboard-reactjs
 The Task Management Dashboard is built with React.js, using localStorage for data persistence and Context API for state management. It features role-based authentication, task tracking, and a dynamic UI with Tailwind CSS. Admins assign tasks, employees update progress, and task stats update in real-time, ensuring an efficient workflow.
 for admin login use :-
@@ -182,3 +183,13 @@ any user's email can be taken with same password 123
       }
     }
   ]
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 4673238 (Initial commit)
